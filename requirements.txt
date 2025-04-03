@@ -1,0 +1,8 @@
+streamlit 
+pickle
+numpy 
+pandas
+scikit-learn
+matplotlib
+seaborn 
+snowflake-connector-python 
